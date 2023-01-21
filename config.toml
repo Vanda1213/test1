@@ -1,4 +1,3 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-themes = "hugo-scroll"
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = 'My New Hugo Site'
